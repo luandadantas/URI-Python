@@ -1,8 +1,8 @@
 
-# Iniciante (1 / 298)
+# Iniciante (2 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/Extremamente_Basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
-- [ ] 1002 - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
+- [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/Area_do_Circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
 - [ ] 1003 - [Soma Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)
 - [ ] 1004 - [Produto Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)
 - [ ] 1005 - [Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)
