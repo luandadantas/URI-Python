@@ -1,5 +1,5 @@
 
-# Iniciante (6 / 298)
+# Iniciante (7 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/Extremamente_Basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/Area_do_Circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -7,7 +7,7 @@
 - [x] [1004](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1004_Produto_Simples.py) - [Produto Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)
 - [x] [1005](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1005_Media_1.py) - [Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)
 - [x] [1006](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1006_Media_2.py) - [Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)
-- [ ] 1007 - [Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)
+- [x] [1007](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1007_Diferenca.py) - [Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)
 - [ ] 1008 - [Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008)
 - [ ] 1009 - [Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009)
 - [ ] 1010 - [Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010)
