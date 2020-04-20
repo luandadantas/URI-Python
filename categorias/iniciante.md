@@ -1,5 +1,5 @@
 
-# Iniciante (13 / 298)
+# Iniciante (14 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -14,7 +14,7 @@
 - [x] [1011](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1011_esfera.py) - [Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011)
 - [x] [1012](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1012_area.py) - [Área](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012)
 - [x] [1013](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1013_o_maior.py) - [O Maior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013)
-- [ ] 1014 - [Consumo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014)
+- [x] [1014](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1014_consumo.py) - [Consumo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014)
 - [ ] 1015 - [Distância Entre Dois Pontos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015)
 - [ ] 1016 - [Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016)
 - [ ] 1017 - [Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017)
