@@ -1,5 +1,5 @@
 
-# Iniciante (11 / 298)
+# Iniciante (12 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -12,7 +12,7 @@
 - [x] [1009](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1009_salario_com_bonus.py) - [Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009)
 - [x] [1010](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1010_calculo_simples.py) - [Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010)
 - [x] [1011](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1011_esfera.py) - [Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011)
-- [ ] 1012 - [Área](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012)
+- [x] [1012](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1012_area.py) - [Área](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012)
 - [ ] 1013 - [O Maior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013)
 - [ ] 1014 - [Consumo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014)
 - [ ] 1015 - [Distância Entre Dois Pontos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015)
