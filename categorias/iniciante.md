@@ -1,5 +1,5 @@
 
-# Iniciante (18 / 298)
+# Iniciante (19 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -19,7 +19,7 @@
 - [x] [1016](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1016_distancia.py) - [Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016)
 - [x] [1017](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1017_gasto_de_combustivel.py) - [Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017)
 - [x] [1018](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1018_cedulas.py) - [Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)
-- [ ] 1019 - [Conversão de Tempo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)
+- [x] [1019](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1019_conversao_de_tempo.py) - [Conversão de Tempo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)
 - [ ] 1020 - [Idade em Dias](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)
 - [ ] 1021 - [Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
 - [ ] 1035 - [Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)
