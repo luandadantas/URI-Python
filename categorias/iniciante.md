@@ -1,5 +1,5 @@
 
-# Iniciante (22 / 298)
+# Iniciante (23 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -23,7 +23,7 @@
 - [x] [1020](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1020_idade_em_dias.py) - [Idade em Dias](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)
 - [x] [1021](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1021_notas_e_moedas.py) - [Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
 - [x] [1035](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1035_teste_de_selecao_1.py) - [Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)
-- [ ] 1036 - [Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
+- [x] [1036](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1036_formula_de_bhaskara.py) - [Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
 - [ ] 1037 - [Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
 - [ ] 1038 - [Lanche](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
 - [ ] 1040 - [Média 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)
