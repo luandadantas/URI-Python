@@ -1,5 +1,5 @@
 
-# Iniciante (24 / 298)
+# Iniciante (25 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -25,7 +25,7 @@
 - [x] [1035](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1035_teste_de_selecao_1.py) - [Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)
 - [x] [1036](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1036_formula_de_bhaskara.py) - [Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
 - [x] [1037](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1037_intervalo.py) - [Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
-- [ ] 1038 - [Lanche](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
+- [x] [1038](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1038_lanche.py) - [Lanche](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
 - [ ] 1040 - [Média 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)
 - [ ] 1041 - [Coordenadas de um Ponto](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041)
 - [ ] 1042 - [Sort Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)
