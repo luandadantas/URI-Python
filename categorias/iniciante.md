@@ -30,7 +30,7 @@
 - [x] [1041](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1041_coordenadas_de_um_ponto.py) - [Coordenadas de um Ponto](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041)
 - [x] [1042](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1042_sort_simples.py) - [Sort Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)
 - [x] [1043](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1043_triangulo.py) - [Triângulo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043)
-- [ ] 1044 - [Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
+- [x] [1044](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1044_multiplos.py) - [Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
 - [ ] 1045 - [Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045)
 - [ ] 1046 - [Tempo de Jogo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046)
 - [ ] 1047 - [Tempo de Jogo com Minutos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047)
