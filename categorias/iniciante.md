@@ -1,5 +1,5 @@
 
-# Iniciante (29 / 298)
+# Iniciante (30 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -31,7 +31,7 @@
 - [x] [1042](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1042_sort_simples.py) - [Sort Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)
 - [x] [1043](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1043_triangulo.py) - [Triângulo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043)
 - [x] [1044](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1044_multiplos.py) - [Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
-- [ ] 1045 - [Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045)
+- [x] [1045](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1045_tipos_de_triangulos.py) - [Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045)
 - [ ] 1046 - [Tempo de Jogo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046)
 - [ ] 1047 - [Tempo de Jogo com Minutos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047)
 - [ ] 1048 - [Aumento de Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048)
