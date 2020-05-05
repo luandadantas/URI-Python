@@ -1,5 +1,5 @@
 
-# Iniciante (34 / 298)
+# Iniciante (35 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -35,7 +35,7 @@
 - [x] [1046](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1046_tempo_de_jogo.py) - [Tempo de Jogo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046)
 - [x] [1047](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1047_tempo_de_jogo_com_minutos.py) - [Tempo de Jogo com Minutos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047)
 - [x] [1048](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1048_aumento_de_salario.py) - [Aumento de Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048)
-- [ ] 1049 - [Animal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049)
+- [x] [1049](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1049_animal.py) - [Animal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049)
 - [ ] 1050 - [DDD](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050)
 - [ ] 1051 - [Imposto de Renda](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051)
 - [ ] 1052 - [Mês](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052)
