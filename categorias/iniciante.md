@@ -1,5 +1,5 @@
 
-# Iniciante (38 / 298)
+# Iniciante (39 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -39,7 +39,7 @@
 - [x] [1050](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1050_DDD.py) - [DDD](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050)
 - [x] [1051](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1051_imposto_de_renda.py) - [Imposto de Renda](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051)
 - [x] [1052](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1052_mes.py) - [Mês](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052)
-- [ ] 1059 - [Números Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059)
+- [x] [1059](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1059_numeros_pares.py) - [Números Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059)
 - [ ] 1060 - [Números Positivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060)
 - [ ] 1061 - [Tempo de um Evento](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061)
 - [ ] 1064 - [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064)
