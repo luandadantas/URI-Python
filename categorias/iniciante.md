@@ -1,5 +1,5 @@
 
-# Iniciante (40 / 298)
+# Iniciante (43 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -42,7 +42,7 @@
 - [x] [1059](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1059_numeros_pares.py) - [Números Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059)
 - [x] [1060](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1060_numeros_positivos.py) - [Números Positivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060)
 - [x] [1061](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1061_tempo_de_um_evento.py) - [Tempo de um Evento](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061)
-- [ ] 1064 - [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064)
+- [x] [1064](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1064_positivos_e_media.py) - [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064)
 - [ ] 1065 - [Pares entre Cinco Números](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065)
 - [ ] 1066 - [Pares, Ímpares, Positivos e Negativos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066)
 - [ ] 1067 - [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
