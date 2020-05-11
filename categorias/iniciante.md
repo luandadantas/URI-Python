@@ -56,7 +56,7 @@
 - [ ] 1079 - [Médias Ponderadas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079)
 - [ ] 1080 - [Maior e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080)
 - [ ] 1094 - [Experiências](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094)
-- [ ] 1095 - [Sequencia IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095)
+- [x] [1095](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1095_sequencia_IJ_1.py) - [Sequencia IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095)
 - [ ] 1096 - [Sequencia IJ 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096)
 - [ ] 1097 - [Sequencia IJ 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097)
 - [ ] 1098 - [Sequencia IJ 4](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098)
