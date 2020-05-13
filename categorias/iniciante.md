@@ -1,5 +1,5 @@
 
-# Iniciante (46 / 298)
+# Iniciante (47 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -46,7 +46,7 @@
 - [x] [1065](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1065_pares_entre_cinco_numeros.py) - [Pares entre Cinco Números](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065)
 - [x] [1066](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1066_pares_impares_positivos_e_negativos.py) - [Pares, Ímpares, Positivos e Negativos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066)
 - [x] [1067](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1067_numeros_impares.py) - [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
-- [ ] 1070 - [Seis Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070)
+- [x] [1070](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1070_seis_numeros_impares.py) - [Seis Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070)
 - [ ] 1071 - [Soma de Impares Consecutivos I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071)
 - [ ] 1072 - [Intervalo 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072)
 - [ ] 1073 - [Quadrado de Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073)
