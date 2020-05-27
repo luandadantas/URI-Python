@@ -47,7 +47,7 @@
 - [x] [1066](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1066_pares_impares_positivos_e_negativos.py) - [Pares, Ímpares, Positivos e Negativos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066)
 - [x] [1067](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1067_numeros_impares.py) - [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
 - [x] [1070](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1070_seis_numeros_impares.py) - [Seis Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070)
-- [ ] 1071 - [Soma de Impares Consecutivos I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071)
+- [x] [1071](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1071_soma_de_impares_consecutivos_I.py) - [Soma de Impares Consecutivos I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071)
 - [ ] 1072 - [Intervalo 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072)
 - [ ] 1073 - [Quadrado de Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073)
 - [ ] 1074 - [Par ou Ímpar](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074)
