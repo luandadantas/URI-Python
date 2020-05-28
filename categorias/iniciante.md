@@ -1,5 +1,5 @@
 
-# Iniciante (50 / 298)
+# Iniciante (51 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -50,7 +50,7 @@
 - [x] [1071](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1071_soma_de_impares_consecutivos_I.py) - [Soma de Impares Consecutivos I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071)
 - [x] [1072](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1072_intervalo_2.py) - [Intervalo 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072)
 - [x] [1073](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1073_quadrado_de_pares.py) - [Quadrado de Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073)
-- [ ] 1074 - [Par ou Ímpar](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074)
+- [x] [1074](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1074_par_ou_impar.py) - [Par ou Ímpar](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074)
 - [ ] 1075 - [Resto 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075)
 - [ ] 1078 - [Tabuada](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078)
 - [ ] 1079 - [Médias Ponderadas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079)
