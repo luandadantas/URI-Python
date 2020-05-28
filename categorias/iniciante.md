@@ -1,5 +1,5 @@
 
-# Iniciante (56 / 298)
+# Iniciante (57 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -57,7 +57,7 @@
 - [x] [1080](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1080_maior_e_posicao.py) - [Maior e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080)
 - [x] [1094](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1094_experiencias.py) - [Experiências](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094)
 - [x] [1095](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1095_sequencia_IJ_1.py) - [Sequencia IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095)
-- [ ] 1096 - [Sequencia IJ 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096)
+- [x] [1096](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1096_sequencia_IJ_2.py) - [Sequencia IJ 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096)
 - [ ] 1097 - [Sequencia IJ 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097)
 - [ ] 1098 - [Sequencia IJ 4](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098)
 - [ ] 1099 - [Soma de Ímpares Consecutivos II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099)
