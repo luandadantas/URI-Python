@@ -1,5 +1,5 @@
 
-# Iniciante (53 / 298)
+# Iniciante (54 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -53,7 +53,7 @@
 - [x] [1074](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1074_par_ou_impar.py) - [Par ou Ímpar](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074)
 - [x] [1075](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1075_resto_2.py) - [Resto 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075)
 - [x] [1078](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1078_tabuada.py) - [Tabuada](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078)
-- [ ] 1079 - [Médias Ponderadas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079)
+- [x] [1079](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1079_medias_ponderadas.py) - [Médias Ponderadas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079)
 - [ ] 1080 - [Maior e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080)
 - [ ] 1094 - [Experiências](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094)
 - [x] [1095](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1095_sequencia_IJ_1.py) - [Sequencia IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095)
