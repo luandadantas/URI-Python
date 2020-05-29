@@ -1,5 +1,5 @@
 
-# Iniciante (64 / 298)
+# Iniciante (65 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -65,7 +65,7 @@
 - [x] [1113](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1113_crescente_e_decrescente.py) - [Crescente e Decrescente](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113)
 - [x] [1114](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1114_senha_fixa.py) - [Senha Fixa](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114)
 - [x] [1115](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1115_quadrante.py) - [Quadrante](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115)
-- [ ] 1116 - [Dividindo X por Y](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116)
+- [x] [1116](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1116_dividindo_X_por_Y.py) - [Dividindo X por Y](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116)
 - [ ] 1117 - [Validação de Nota](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117)
 - [ ] 1118 - [Várias Notas Com Validação](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118)
 - [ ] 1131 - [Grenais](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131)
