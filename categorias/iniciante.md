@@ -1,5 +1,5 @@
 
-# Iniciante (62 / 298)
+# Iniciante (63 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -63,7 +63,7 @@
 - [x] [1099](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1099_soma_de_impares_consecutivos_II.py) - [Soma de Ímpares Consecutivos II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099)
 - [x] [1101](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1101_sequencia_de_numeros_e_soma.py) - [Sequência de Números e Soma](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101)
 - [x] [1113](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1113_crescente_e_decrescente.py) - [Crescente e Decrescente](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113)
-- [ ] 1114 - [Senha Fixa](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114)
+- [x] [1114](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1114_senha_fixa.py) - [Senha Fixa](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114)
 - [ ] 1115 - [Quadrante](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115)
 - [ ] 1116 - [Dividindo X por Y](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116)
 - [ ] 1117 - [Validação de Nota](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117)
