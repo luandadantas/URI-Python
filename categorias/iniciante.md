@@ -1,5 +1,5 @@
 
-# Iniciante (67 / 298)
+# Iniciante (68 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -68,7 +68,7 @@
 - [x] [1116](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1116_dividindo_X_por_Y.py) - [Dividindo X por Y](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116)
 - [x] [1117](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1117_validacao_de_nota.py) - [Validação de Nota](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117)
 - [x] [1118](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1118_varias_notas_com_validacao.py) - [Várias Notas Com Validação](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118)
-- [ ] 1131 - [Grenais](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131)
+- [x] [1131](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1131_grenais.py) - [Grenais](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131)
 - [ ] 1132 - [Múltiplos de 13](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132)
 - [ ] 1133 - [Resto da Divisão](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133)
 - [ ] 1134 - [Tipo de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134)
