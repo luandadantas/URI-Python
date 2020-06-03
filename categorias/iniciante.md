@@ -1,5 +1,5 @@
 
-# Iniciante (73 / 298)
+# Iniciante (74 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -74,7 +74,7 @@
 - [x] [1134](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1134_tipo_de_combustivel.py) - [Tipo de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134)
 - [x] [1142](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1142_PUM.py) - [PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142)
 - [x] [1143](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1143_quadrado_e_ao_cubo.py) - [Quadrado e ao Cubo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143)
-- [ ] 1144 - [Sequência Lógica](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144)
+- [x] [1144](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1144_sequencia_logica.py) - [Sequência Lógica](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144)
 - [ ] 1145 - [Sequência Lógica 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145)
 - [ ] 1146 - [Sequências Crescentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146)
 - [ ] 1149 - [Somando Inteiros Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149)
