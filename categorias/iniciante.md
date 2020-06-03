@@ -1,5 +1,5 @@
 
-# Iniciante (71 / 298)
+# Iniciante (72 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -72,7 +72,7 @@
 - [x] [1132](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1132_multiplos_de_13.py) - [Múltiplos de 13](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132)
 - [x] [1133](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1133_resto_da_divisao.py) - [Resto da Divisão](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133)
 - [x] [1134](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1134_tipo_de_combustivel.py) - [Tipo de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134)
-- [ ] 1142 - [PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142)
+- [x] [1142](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1142_PUM.py) - [PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142)
 - [ ] 1143 - [Quadrado e ao Cubo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143)
 - [ ] 1144 - [Sequência Lógica](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144)
 - [ ] 1145 - [Sequência Lógica 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145)
