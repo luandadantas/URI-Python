@@ -1,5 +1,5 @@
 
-# Iniciante (80 / 298)
+# Iniciante (81 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -82,7 +82,7 @@
 - [ ] 1151 - [Fibonacci Fácil](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151)
 - [x] [1153](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1153_fatorial_simples.py) - [Fatorial Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153)
 - [x] [1154](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1154_idades.py) - [Idades](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154)
-- [ ] 1155 - [Sequência S](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155)
+- [x] [1155](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1155_sequencia_S.py) - [Sequência S](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155)
 - [ ] 1156 - [Sequência S II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156)
 - [ ] 1157 - [Divisores I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157)
 - [ ] 1158 - [Soma de Ímpares Consecutivos III](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158)
