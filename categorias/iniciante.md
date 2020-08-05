@@ -1,5 +1,5 @@
 
-# Iniciante (86 / 298)
+# Iniciante (87 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -88,7 +88,7 @@
 - [X] [1158](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1158_soma_de_impares_consecutivos_III.py) - [Soma de Ímpares Consecutivos III](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158)
 - [X] [1159](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1159_soma_de_pares_consecutivos.py) - [Soma de Pares Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159)
 - [X] [1160](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1160_crescimento_populacional.py) - [Crescimento Populacional](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160)
-- [ ] 1164 - [Número Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164)
+- [X] [1164](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1164_numero_perfeito.py) - [Número Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164)
 - [ ] 1165 - [Número Primo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165)
 - [ ] 1172 - [Substituição em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172)
 - [ ] 1173 - [Preenchimento de Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173)
