@@ -1,5 +1,5 @@
 
-# Iniciante (92 / 298)
+# Iniciante (93 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -79,7 +79,7 @@
 - [x] [1146](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1146_sequencias_crescentes.py) - [Sequências Crescentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146)
 - [x] [1149](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1149_somando_inteiros_consecutivos.py) - [Somando Inteiros Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149)
 - [x] [1150](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1150_ultrapassando_Z.py) - [Ultrapassando Z](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150)
-- [ ] 1151 - [Fibonacci Fácil](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151)
+- [x] [1151](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1151_fibonacci_facil.py) - [Fibonacci Fácil](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151)
 - [x] [1153](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1153_fatorial_simples.py) - [Fatorial Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153)
 - [x] [1154](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1154_idades.py) - [Idades](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154)
 - [x] [1155](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1155_sequencia_S.py) - [Sequência S](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155)
