@@ -1,5 +1,5 @@
 
-# Iniciante (95 / 298)
+# Iniciante (96 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -96,7 +96,7 @@
 - [X] [1175](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1175_troca_em_vetor_I.py) - [Troca em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175)
 - [X] [1176](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1176_fibonacci_em_vetor.py) - [Fibonacci em Vetor](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176)
 - [X] [1177](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1177_preenchimento_de_vetor_II.py) - [Preenchimento de Vetor II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177)
-- [ ] 1178 - [Preenchimento de Vetor III](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178)
+- [X] [1178](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1178_preenchimento_de_vetor_III.py) - [Preenchimento de Vetor III](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178)
 - [ ] 1179 - [Preenchimento de Vetor IV](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179)
 - [ ] 1180 - [Menor e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180)
 - [ ] 1181 - [Linha na Matriz](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181)
