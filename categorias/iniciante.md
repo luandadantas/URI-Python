@@ -1,5 +1,5 @@
 
-# Iniciante (98 / 298)
+# Iniciante (101 / 298)
 
 - [x] [1001](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1001_extremamente_basico.py) - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - [x] [1002](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1002_area_do_circulo.py) - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -100,9 +100,9 @@
 - [X] [1179](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1179_preenchimento_de_vetor_IV.py) - [Preenchimento de Vetor IV](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179)
 - [ ] 1180 - [Menor e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180)
 - [X] [1181](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1181_linha_na_matriz.py) - [Linha na Matriz](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181)
-- [ ] 1182 - [Coluna na Matriz](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182)
-- [ ] 1183 - [Acima da Diagonal Principal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183)
-- [ ] 1184 - [Abaixo da Diagonal Principal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1184)
+- [X] [1182](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1182_coluna_na_matriz.py) - [Coluna na Matriz](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182)
+- [X] [1183](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1183_acima_da_diagonal_principal.py) - [Acima da Diagonal Principal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183)
+- [X] [1184](https://github.com/luandadantas/URI-Python/blob/master/iniciante/1184_abaixo_da_diagonal_principal.py) - [Abaixo da Diagonal Principal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1184)
 - [ ] 1185 - [Acima da Diagonal Secundária](https://www.urionlinejudge.com.br/judge/pt/problems/view/1185)
 - [ ] 1186 - [Abaixo da Diagonal Secundária](https://www.urionlinejudge.com.br/judge/pt/problems/view/1186)
 - [ ] 1187 - [Área Superior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1187)
